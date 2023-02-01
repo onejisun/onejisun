@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I am onejisun.
+I'm still studying Python.
+
 <!--
 **onejisun/onejisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
