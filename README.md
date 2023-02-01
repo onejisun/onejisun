@@ -8,6 +8,12 @@
 
 정말 어렵고, 혼란스럽다. T^T
 
+### I can speak..
+
+- Korean
+- Japanese
+- Python
+
 <!--
 **onejisun/onejisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
